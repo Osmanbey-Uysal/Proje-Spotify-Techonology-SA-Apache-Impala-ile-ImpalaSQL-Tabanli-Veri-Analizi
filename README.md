@@ -1,0 +1,1 @@
+# Proje-Spotify-Techonology-SA-Apache-Impala-ile-ImpalaSQL-Tabanli-Veri-Analizi
